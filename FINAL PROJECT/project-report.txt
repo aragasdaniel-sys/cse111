@@ -1,0 +1,33 @@
+Student Project Report
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------      
+2026-08-07      .5        I started using AI as a tutor and spent time designing the project.
+2026-08-09      2.5       Then, I started to write and debug: log_entry(); main(); read_csv_file(); filter_time(),
+2026-08-10      .5        wrote and debugged: display_goal() and set_goal() -- Here I redesigned the goal-tracking feature and based it on a goal the user would set.
+2026-08-12      2.5       Wrote and debugged: calculate_percentage(), wrote an exception there; display_weekly_report(); debugged the possibe inexistence of "goal.txt " on the code using a try/except block on main().
+2026-08-13       4        Found and fixed a csv problem which made me change the strftime/strptime in log_entry and filter_time. Wrote and debugged: test_calculate_percentage(); test_read_csv_file()
+=============Example====================
+
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
