@@ -66,7 +66,7 @@ def display_weekly_report(filtered_list):
 
     total_hours = 0
     for row in filtered_list:
-        hours = int(row["hours"])
+        hours = float(row["hours"])
         total_hours += hours
     
     goal = display_goal("goal.txt")
